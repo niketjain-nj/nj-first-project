@@ -1,2 +1,6 @@
 This is Master Test File
+<<<<<<< HEAD
 This Master file is update by Windows
+=======
+This Master File update from AWS Server
+>>>>>>> 4ff8a481247b613d27515c6466700034b123799f
